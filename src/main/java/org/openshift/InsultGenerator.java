@@ -1,5 +1,12 @@
 package org.openshift;
+<<<<<<< HEAD
 import java.sql.Connection; import java.sql.DriverManager; import java.sql.ResultSet; import java.sql.Statement;
+=======
+import java.sql.Connection; 
+import java.sql.DriverManager; 
+import java.sql.ResultSet; 
+import java.sql.Statement;
+>>>>>>> 5a34d24cf86a5349448626d1cf5eb061654e9b89
 public class InsultGenerator { public String generateInsult() {
       String vowels = "AEIOU";
       String article = "an";
